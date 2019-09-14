@@ -66,3 +66,25 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# Youtube-App
+
+The purpose of this project is to extract data from Youtube's API. I will be making more projects like this in the furture.
+
+# Motivation
+
+I am on Youtube on a Consistent Basis. Always have wondered what it would be like to extract Youtube's data
+
+# Features
+
+This is in React.js Javascript, as well with Node.js npm packages that include the following dependencies. Axios is the most important because it is responsible for grabbing my API key. Dotenv is used a hide my API key to make sure that know one sees my key, and @material-ui/core for the organization and spacing for the app.
+
+# API Reference
+
+This is only using Google API Youtube version 3. Here is the link to the google API: https://developers.google.com/youtube/v3/
+
+# How to use
+
+Think of this as a small version of Youtube. The search bar above allows you to search for YouTube videos. The word you type in the search bar are at the first five videos in the search. Then play the video just like you would play a video on Youtube.
+
+[The deployed link is here](https://infinite-falls-73996.herokuapp.com/)
