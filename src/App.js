@@ -14,7 +14,7 @@ class App extends React.Component {
     }
 
     componentDidMount() {
-        this.handleSubmit("")
+        this.handleSubmit("pdf")
     }
 
     onVideoSelect = (video) => {
