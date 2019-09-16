@@ -14,7 +14,7 @@ class App extends React.Component {
     }
 
     componentDidMount() {
-        this.handleSubmit("shark")
+        this.handleSubmit("snail")
     }
 
     onVideoSelect = (video) => {
