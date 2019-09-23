@@ -83,6 +83,16 @@ This is in React.js Javascript, as well with Node.js npm packages that include t
 
 This is only using Google API Youtube version 3. Here is the link to the google API: https://developers.google.com/youtube/v3/
 
+# ScreenShots
+
+The deployed page of the app.
+
+![Youtube](./public/images/Youtube.jpg)
+
+The videos I get when typing banjo in the search bar.
+
+![Search](./public/images/Search.jpg)
+
 # How to use
 
 Think of this as a small version of Youtube. The search bar above allows you to search for YouTube videos. The word you type in the search bar are at the first five videos in the search. Then play the video just like you would play a video on Youtube.
