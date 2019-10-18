@@ -21,7 +21,7 @@ class App extends React.Component {
         this.setState({ selectedVideo: video });
     }
 
-    //I am working on hiding the API key will work on the back end
+    //API key is successfully hidden 
     handleSubmit = async (searchTerm) => {
         const response = await youtube.get("search", {
             params: {
